@@ -502,7 +502,7 @@ float: right;
   margin-bottom: 24px !important;
 }
 .pf-content-block .display-c1{
-  background-color: #27E1C1 !important;
+  background-color: #749F82 !important;
   margin-bottom: 15px;
 }
 .address-font-15{
@@ -1074,14 +1074,17 @@ padding-left: 0rem;
     color: white ;
 }
 .bg-c-blue{
-    background-color:#28375f;
+    background-color:#425F57;
     padding: 14px !important;
 }
 .link-c-blue{
   color: #7f7544;
 }
+.link-c-wh {
+  color: #fff;
+}
 .link-disp-blue{
-  color: #28375f;
+  color: #CFFF8D;
 }
 .link-disp-black{
   color: #000000;
@@ -1568,7 +1571,7 @@ padding-left: 0rem;
 /* SCheme Area*/
 .scheme-area {
   /*background-color: #efefef;*/
-  background-color: #BAD7E9 !important;
+  background-color: #425F57 !important;
   position: relative;
 }
 .scheme-area .scheme-content{
@@ -1625,7 +1628,7 @@ padding-left: 0rem;
 }
 .image-wrapper.bg-overlay:before{
   /* background: #413a18d1; */
-  background: #bad7e9d9;
+  background: #395b64b5;
 }
 .pf-img-block{
   text-align: center;
@@ -1674,16 +1677,16 @@ padding-left: 0rem;
   border-top: 1px solid #c4c4c470;
 }
 .pf-bg-orange{
-  background-color: #ba7d00;
+  background-color: #ffd47b;
 }
 .pf-bg-blue{
-  background-color: #00b3ba;;
+  background-color: #7ffaff;
 }
 .pf-bg-merun{
   background-color: #ad008f;;
 }
 .pf-bg-skyb{
-  background-color: #20a0d5;;
+  background-color: #69ff00;;
 }
 .r-nav-item .nav-btn{
   /*background-color: #0063ff;
@@ -1742,7 +1745,7 @@ padding-left: 0rem;
 }
 .top-header-area{
   line-height: 1.8;
-  background-color: #BAD7E9;
+  background-color: #A8E890;
 }
 .header-content-right a,
 .header-content-left a{
@@ -5182,7 +5185,7 @@ padding-left: 0rem;
   cursor: pointer;
 }
 .bg-light-orange{
-  background-color: #E6E2C3;
+  background-color: #CFFF8D;
 }
 .slider-bottom-bar .kam-topbar-left .sm-btm-right>li .anticon {
   font-size: 30px;
@@ -5232,14 +5235,14 @@ padding-left: 0rem;
 }
 .abt-card{
   /* border: 1px solid #7f7544 !important; */
-  border: 2px solid #28375f !important;
+  border: 2px solid #425F57 !important;
   border-radius: 0px;
   border-top-left-radius: 0px !important ;
   border-top-right-radius: 0px !important ;
 }
 .abt-card .ant-card-head{
   min-height: 0;
-  background: #28375f;
+  background: #425F57;
   padding: 0;
   border-bottom: 0px solid #f0f0f0;
     border-radius: 0px 0px 0 0;
@@ -5486,21 +5489,21 @@ margin-top: 24px;
 }
   .facility-tab .ant-tabs-tab{
     color: white;
-  background: #28375f;
+  background: #425F57;
 }
 .facility-tab .ant-tabs-left > .ant-tabs-nav .ant-tabs-tab + .ant-tabs-tab{
   margin: 4px 0 0 0;
 }
 .facility-tab .ant-tabs-tab.ant-tabs-tab-active {
   color: #fff;
-  background-color: #BAD7E9;
+  background-color: #CFFF8D;
   
 }
 .facility-tab .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
-  color: #28375f;
+  color: #425F57;
 }
 .facility-tab .ant-tabs-tab-btn{
-  color: #ffffff;
+  color: #CFFF8D;
 }
 .facility-tab .ant-tabs-tab-btn:after {
   content: "\f105";
@@ -5555,7 +5558,7 @@ padding-bottom: 24px;
   /* background-color: #747161; */
   /* background-color: #28375f; */
   /*background-image: url('../img/page-bg.gif');*/
-  background-color: #28375f;
+  background-color: #425F57;
   padding: 59px 0 10px;
 }
 .c-footer hr{
@@ -5621,7 +5624,7 @@ button.close {
 
 /*about-us-tab*/
 .about-us-tab .ant-tabs-tab{
-  background: #28375f;
+  background: #425F57;
   padding: 8px 70px 8px 9px ;
 }
 .about-us-tab .ant-tabs > .ant-tabs-nav, .ant-tabs > div > .ant-tabs-nav {
@@ -5635,13 +5638,13 @@ button.close {
 .about-us-tab .ant-tabs-tab.ant-tabs-tab-active {
   color: #fff;
   /* background-color: #7f7544; */
-  background-color: #BAD7E9;
+  background-color: #CFFF8D;
 }
 .about-us-tab .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
-  color: #28375f;
+  color: #425F57;
 }
 .about-us-tab .ant-tabs-tab-btn{
-  color: #ffffff;
+  color: #CFFF8D;
 }
 .about-us-tab .ant-tabs-tab-btn:after {
   content: "\f105";
@@ -6035,7 +6038,7 @@ border: 0px;
 }
 
 .allheadcolor {
-  color: #28375f;
+  color: #2C3333;
   font-size: 110%;
 }
 
@@ -6111,7 +6114,7 @@ border: 0px;
 }
 
 .news-links {
-  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  background-image: linear-gradient(to right, #2C3333, #2C3333, #2C3333);
   color: white;
   border: 2px solid #28375f;
   margin: 15px 0px 15px 0px;
@@ -6138,7 +6141,8 @@ border: 0px;
 }
 
 .fs-clr {
-  background-color: #27E1C1;
+  color: #ffffff;
+  background-color: #425F57;
   border: 1px solid #28375f;
 }
 

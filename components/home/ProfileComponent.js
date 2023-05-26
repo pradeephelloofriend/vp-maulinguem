@@ -20,15 +20,15 @@ const ProfileComponent = () => {
           <Card >
             <Card.Body>
             <div className='pf-content-block '>
-            <h4 className="display-6 mb-0 text-white">Chicalim Profile</h4>
+            <h4 className="display-6 mb-0 text-white">Maulinguem Profile</h4>
               <Card className='display-c1'>
                 <Card.Body>
                   <ul className='ph-ul text-white mt-3'>
                     <li>Block / Taluka 
-                      <p>Mormugao</p>
+                      <p>Bicholim</p>
                     </li>
                     <li>District 
-                      <p>South Goa</p>
+                      <p>North Goa</p>
                     </li>
                     <li>State 
                       <p>Goa</p>
@@ -79,13 +79,13 @@ const ProfileComponent = () => {
                 <Card.Body>
                   <ul className='pf-ul text-white mt-3'>
                     <li className='pf-bg-orange'>Assembly Constituency
-                      <p>Mormugao</p>
+                      <p>Bicholim</p>
                     </li>
                     <li className='pf-bg-blue'>Parliament Constituency
-                      <p>South Goa</p>
+                      <p>North Goa</p>
                     </li>
                     <li className='pf-bg-skyb'>Nearest Town 
-                      <p>Mormugao</p>
+                      <p>Bicholim</p>
                     </li>
 
                   </ul>
