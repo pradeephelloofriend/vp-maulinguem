@@ -112,7 +112,7 @@ const NewsSectionComponent = ({setTabKey,devData}) => {
                   </div>
 
                   
-                  <div className="row">
+                  <div className="row" style={{display:'none'}}>
                       <div className="col-md-12 col-xl-12">
                       <Card className='vil-card-pd'>
                                 <div className='vil-card-block'>

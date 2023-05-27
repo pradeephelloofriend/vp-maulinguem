@@ -47,7 +47,7 @@ const OtherLinks = () => {
         <section className='slider-bottom-bar bg-light-orange'>
             <div className='container'>
                 <div className='row'>
-                    <div className='col-md-6'>
+                    <div className='col-md-12'>
                         <div className='marquee-box'>
                             <div className="row text-center">
                                 <div className="col-md-2">
@@ -71,7 +71,7 @@ const OtherLinks = () => {
                         </div>
                     </div>
                     
-                    <div className='col-md-6 news-links'>
+                    <div className='col-md-6 news-links' style={{display:'none'}}>
                         <div className="kam-topbar-left  align-items-center">
                             <ul className='sm-btm-right d-flex justify-content-between'>
                                             

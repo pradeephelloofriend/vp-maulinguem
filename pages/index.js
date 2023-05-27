@@ -27,8 +27,9 @@ const index = ({isLoading}) => {
     return (
         <>
             <Spin spinning={isLoading}>
+            <OtherLinks />    
             <Sliderbanner/>
-            <OtherLinks />
+            
             <Banner />
             <ProfileComponent/>
             <NewsSectionComponent />
