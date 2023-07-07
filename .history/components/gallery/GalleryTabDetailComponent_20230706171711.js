@@ -62,7 +62,7 @@ const GalleryTabDetailComponent = ({cDetailData}) => {
                                                   }
                                                   <div className='img-tag-box'>
                                  
-                                                      <span className="badge centre bg-green text-white link-c-blue rounded-pill">{i.title}</span>
+                                                      <span className="badge centre bg-blue text-white link-c-blue rounded-pill">{i.title}</span>
                                                   </div>
                                               </div>
                                               
